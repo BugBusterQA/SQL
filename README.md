@@ -2,7 +2,7 @@
 
 
 
-SQL (Structured Query Language) - это язык запросов, используемый для управления и манипулирования данными в реляционных базах данных, которые часто используют тестировщики и не только.
+Structured Query Language (SQL) is a standard programming language used to manage and manipulate relational databases. SQL queries are used to perform various actions on the database, such as retrieving, updating, or deleting data. Below are some common SQL queries used in database testing
 
 SELECT - The SELECT statement is used to retrieve data from one or more tables in the database.
 INSERT - The INSERT statement is used to add new records to a table.
