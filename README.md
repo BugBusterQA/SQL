@@ -28,4 +28,7 @@ ORDER BY column_name ASC|DESC;
 SELECT column1, column2, ... FROM table_name
 GROUP BY column_name;
 
+### Пример SQL UPDATE запроса:
+UPDATE tableName SET field1=new_value1 WHERE condition = value
+
 
