@@ -11,21 +11,21 @@ DELETE
 
 ### SQL SELECT examples:
 
-Retrieving all data from a table:  
+**Retrieving all data from a table:**  
 SELECT * FROM table_name;
 
-Retrieving specific columns from a table:  
+**Retrieving specific columns from a table:**  
 SELECT column1, column2, ... FROM table_name;
 
-Retrieving data with condition:  
+**Retrieving data with condition:**  
 SELECT column1, column2, ... FROM table_name  
 WHERE ID=13;
 
-Retrieving data with sorting:  
+**Retrieving data with sorting:**  
 SELECT column1, column2, ... FROM table_name  
 ORDER BY column_name ASC|DESC;
 
-Retrieving data with grouping:  
+**Retrieving data with grouping:**  
 SELECT column1, column2, ... FROM table_name  
 GROUP BY column_name;
 
